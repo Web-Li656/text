@@ -1,0 +1,9 @@
+{
+  "title": "Sample JSON Document",
+  "text": "This is the main content of the JSON file. It contains various words for frequency analysis. Data science is an exciting field. Data analysis helps us understand patterns.",
+  "metadata": {
+    "author": "Test User",
+    "date": "2026-03-16"
+  },
+  "tags": ["data", "analysis", "text", "processing"]
+}

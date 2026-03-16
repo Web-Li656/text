@@ -1,0 +1,6 @@
+hello world this is a sample text file
+it contains multiple lines with some special characters
+the quick brown fox jumps over the lazy dog
+中文内容测试这是一段中文文本包含一些特殊符号
+python is a great programming language for data processing
+machine learning and artificial intelligence are fascinating fields
