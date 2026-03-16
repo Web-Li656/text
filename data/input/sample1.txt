@@ -1,0 +1,10 @@
+Hello World! This is a sample text file.
+
+It contains multiple lines with some special characters: @#$%^&*()
+
+The quick brown fox jumps over the lazy dog.
+
+中文内容测试：这是一段中文文本，包含一些特殊符号！@#￥%……&*
+
+Python is a great programming language for data processing.
+Machine learning and artificial intelligence are fascinating fields.
