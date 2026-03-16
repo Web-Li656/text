@@ -1,0 +1,5 @@
+hello world this is a test file
+it contains some special characters
+还有一些中文字符用于测试
+这是第四行上面有空行
+testing testing testing repeat words repeat words repeat

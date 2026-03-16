@@ -1,0 +1,6 @@
+Hello World! This is a Test File.
+It contains some special characters: @#$%^&*()
+还有一些中文字符用于测试。
+
+这是第四行，上面有空行。
+Testing testing testing. Repeat words repeat words repeat.
